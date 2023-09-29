@@ -15,8 +15,30 @@ Here are some ideas to get you started:
 # Md. Mahmudur Rashid
 ### __Full Stack Engineer || Problem Solver || Quick Learner || Security Researcher__
 
+**Ambitious professional with full stack development, significant cybersecurity expertise, and diverse organizational experience, seeking a role in a forward-looking company**
+
 ## 🔥 I’m currently working on Angular, NestJS and React
 
-## 🌱 I’m currently learning Vue
+## 🌱 Learning Vue
 
 ## 💻 I'm solving problem on LeetCode
+
+ACHIEVEMENTS
+•	National Award
+Champion:“National Hackathon 2014”
+Organized By: ICT Division, Ministry of Posts, Telecommunications and Information Technology, Bangladesh
+Category: Cyclone Centre Management Development Platform: Android
+•	Academic Award (Cum Laude)
+United International University
+•	Star Performer Award - 2022
+Codingal.com (EdTech)
+
+KEY SKILLS
+•	Angular | React
+•	Node.js | Express | NestJS
+•	PostgresSQL | MongoDB | MySQL
+•	Clean Code | Github | Docker
+•	Problem Solver | Team Player
+•	Python | Automation
+•	Bash Script | Linux
+•	Vulnerability Assessment | EdTech

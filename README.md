@@ -23,11 +23,15 @@ Here are some ideas to get you started:
 
 ## 💻 I'm solving problem on LeetCode
 
+----------------------------------
+
 **ACHIEVEMENTS**
 
 •	National Award
-Champion:“National Hackathon 2014”
-Organized By: ICT Division, Ministry of Posts, Telecommunications and Information Technology, Bangladesh
+Champion: “National Hackathon 2014”
+
+Organized By: 
+ICT Division, Ministry of Posts, Telecommunications and Information Technology, Bangladesh
 Category: Cyclone Centre Management Development Platform: Android
 
 •	Academic Award (Cum Laude)
@@ -36,6 +40,7 @@ United International University
 •	Star Performer Award - 2022
 Codingal.com (EdTech)
 
+----------------------------------
 
 **KEY SKILLS**
 

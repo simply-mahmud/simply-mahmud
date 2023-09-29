@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Md Mahmudur Rashid
-### Full Stack Engineer || Problem Solver || Quick Learner || Security Researcher
+### Full Stack Engineer || Problem Solver || Quick Learner || Security Researcher || Automation
 
 **Ambitious professional with full stack development, significant cybersecurity expertise, and diverse organizational experience, seeking a role in a forward-looking company (remote)**
 

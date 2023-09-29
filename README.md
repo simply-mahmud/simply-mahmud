@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Md. Mahmudur Rashid
-### ** Full Stack Engineer || Problem Solver || Quick Learner || Security Researcher **
+### __Full Stack Engineer || Problem Solver || Quick Learner || Security Researcher__
 
 ## 🔥 I’m currently working on Angular, NestJS and React
 

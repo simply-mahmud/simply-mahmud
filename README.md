@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 ### __Full Stack Engineer || Problem Solver || Quick Learner || Security Researcher__
 
 **Ambitious professional with full stack development, significant cybersecurity expertise, and diverse organizational experience, seeking a role in a forward-looking company**
-![](/mahmud-pic.png)
+
+<img src="/mahmud-pic.png"  width="600" height="300">
+
 ## 🔥 I’m currently working on Angular, NestJS and React
 
 ## 🌱 Learning Vue

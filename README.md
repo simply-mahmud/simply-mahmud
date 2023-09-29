@@ -19,15 +19,16 @@ Here are some ideas to get you started:
 
 <img src="/mahmud-pic.png"  width="250" height="300">
 
-## 🔥 I’m currently working on Angular, NestJS and React
+## 🔥 Currently working on Angular, NestJS and React
 
 ## 🌱 Learning Vue
 
-## 💻 I'm solving problem on LeetCode
+## 💻 Solving problem on LeetCode
 
+## 💖 Build & Break!
 ----------------------------------
 
-**ACHIEVEMENTS**
+**🏆 ACHIEVEMENTS**
 
 •	National Award
 Champion: “National Hackathon 2014”
@@ -44,7 +45,7 @@ Codingal.com (EdTech)
 
 ----------------------------------
 
-**KEY SKILLS**
+**⚡ KEY SKILLS**
 
 •	Angular | React
 

@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 ## 🔥 Currently working on Angular, NestJS and React
 
-## 🌱 Learning Vue
-
 ## 💻 Solving problem on LeetCode
+
+## 🌱 Learning Vue
 
 ## 💖 Build(Developer) & Break(Security Researcher)!
 ----------------------------------

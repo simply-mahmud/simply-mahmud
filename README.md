@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on Angular, NestJS and React
+🔥 I’m currently working on Angular, NestJS and React
 
 🌱 I’m currently learning Vue
+
+💻 I'm solving problem on LeetCode

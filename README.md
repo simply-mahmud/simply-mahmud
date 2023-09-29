@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 **Ambitious professional with full stack development, significant cybersecurity expertise, and diverse organizational experience, seeking a role in a forward-looking company**
 
-<img src="/mahmud-pic.png"  width="350" height="400">
+<img src="/mahmud-pic.png"  width="250" height="300">
 
 ## 🔥 I’m currently working on Angular, NestJS and React
 

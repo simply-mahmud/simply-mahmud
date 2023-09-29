@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Md Mahmudur Rashid
-### __Full Stack Engineer || Problem Solver || Quick Learner || Security Researcher__
+### Full Stack Engineer || Problem Solver || Quick Learner || Security Researcher
 
-**Ambitious professional with full stack development, significant cybersecurity expertise, and diverse organizational experience, seeking a role in a forward-looking company(remote)**
+**Ambitious professional with full stack development, significant cybersecurity expertise, and diverse organizational experience, seeking a role in a forward-looking company (remote)**
 
 <img src="/mahmud-pic.png"  width="250" height="300">
 
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ## 💻 Solving problem on LeetCode
 
-## 💖 Build & Break!
+## 💖 Build(Developer) & Break(Security Researcher)!
 ----------------------------------
 
 **🏆 ACHIEVEMENTS**
@@ -37,7 +37,8 @@ Organized By:
 ICT Division, Ministry of Posts, Telecommunications and Information Technology, Bangladesh
 Category: Cyclone Centre Management Development Platform: Android
 
-•	Academic Award (Cum Laude)
+•	Academic Award: Cum Laude
+
 United International University
 
 •	Star Performer Award - 2022
